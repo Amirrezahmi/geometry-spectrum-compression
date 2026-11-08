@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+*.pt
+enwik8
+enwik8.zip
+enwik8_first_55MB.txt
